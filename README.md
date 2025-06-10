@@ -1,1 +1,7 @@
-# Xrovenskie Portfolio
+# Aryan Dabholkar
+## skills
+- HTML
+- CSS
+- Javascript
+
+  
