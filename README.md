@@ -3,5 +3,3 @@
 - HTML
 - CSS
 - Javascript
-
-  
